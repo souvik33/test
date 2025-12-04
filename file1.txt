@@ -1,6 +1,3 @@
 this is file 1
-I from NBHS
-I from NBHS 2
-I from VC
-I from JU
+
 

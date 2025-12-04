@@ -1,2 +1,1 @@
-this is developer file A by souvik branch
-I completed MCA from JU
+this is developer file 
